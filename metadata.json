@@ -1,6 +1,0 @@
-{
-  "name": "QR Code Generator",
-  "description": "A professional and customizable client-side QR Code Generator with support for URLs, WiFi, Contact vCards, custom colors, sizing, and print and download options.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
